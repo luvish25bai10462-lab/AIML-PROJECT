@@ -1,0 +1,9 @@
+hours_studied,attendance,previous_score,sleep_hours,difficulty
+2,60,40,5,Hard
+3,65,50,6,Hard
+4,70,55,6,Medium
+5,75,65,6,Medium
+6,80,70,7,Medium
+7,85,80,7,Easy
+8,90,85,7,Easy
+9,95,90,8,Easy
